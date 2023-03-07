@@ -1,16 +1,14 @@
-### Hi there 👋
+#Halo semua, Aku Nurhadi - aka Ulhad 👋
+## Tentang aku:
 
-<!--
-**Ulhad/Ulhad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🏫 Saya saya seorang mahasiswa di UNIVETRSITAS MULTI DATA PALEMBANG
+- 🔍 Saya mencari jodoh
+- 🥅 Saya ingin jadi seorang data analisis
+- 💬 Tanyakan apa saja tentangku
+- 📧 contact person : ulhad321@gmail.com
 
-Here are some ideas to get you started:
+## Pendidikan:
+ #### 1. SMAN 8 PALEMBANG | MIPA | Palembang `2018-2021`
+   - Ketua Sekbid OSIS
+   - Ketua bidang software estrakulikuler Computer Club
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
